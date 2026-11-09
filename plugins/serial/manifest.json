@@ -1,0 +1,9 @@
+{
+  "id": "serial",
+  "name": "Serial Ports",
+  "version": "1.0.0",
+  "kind": "serial",
+  "apiVersion": 1,
+  "description": "Unlocks serial-port sessions in Ferriterm. The transport itself is built into the app; this manifest grants the serial permission.",
+  "permissions": ["serial"]
+}

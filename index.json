@@ -1,0 +1,16 @@
+{
+  "apiVersion": 1,
+  "updated": "2026-11-09",
+  "plugins": [
+    {
+      "id": "serial",
+      "name": "Serial Ports",
+      "version": "1.0.0",
+      "kind": "serial",
+      "description": "Local serial-port sessions (RS-232 / USB adapters) with configurable baud rate, data bits, parity, stop bits and flow control.",
+      "author": "Ferriterm",
+      "homepage": "https://github.com/chensnails/ferriterm-plugins",
+      "manifestUrl": "https://raw.githubusercontent.com/chensnails/ferriterm-plugins/main/plugins/serial/manifest.json"
+    }
+  ]
+}
